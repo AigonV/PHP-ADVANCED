@@ -10,7 +10,7 @@
 art=Lil Tjay&
 title=F.N&
 jaar=2019&
-muzieks=Hip Hop">Meer informatie</a>
+muzieks=Hip Hop">Klik hier voor meer informatie!</a>
 </button>
 
 </body>
