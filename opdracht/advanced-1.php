@@ -13,11 +13,11 @@
         <select name="textColor">
             <option>Select color...</option>
             <br/>
-            <option style="color: blue;">Blue</option>
             <option style="color: red;">Red</option>
-            <option style="color: yellow;">Yellow</option>
+            <option style="color: blue;">Blue</option>
+            <option style="color: green;">Green</option>
+            <option style="color: black;">Black</option>
             <option style="color: brown;">Brown</option>
-            <option style="color: purple;">Purple</option>
         </select><br/><br/>
 
         <label for="backColor">Achtergrond Kleur</label>
@@ -26,11 +26,11 @@
             <br/>
             <option>Select color...</option>
             <br/>
-            <option style="color: blue;">Blue</option>
             <option style="color: red;">Red</option>
-            <option style="color: yellow;">Yellow</option>
+            <option style="color: blue;">Blue</option>
+            <option style="color: green;">Green</option>
+            <option style="color: black;">Black</option>
             <option style="color: brown;">Brown</option>
-            <option style="color: purple;">Purple</option>
         </select><br/><br/>
 
         <label for="tabelRand">Tabelranddikte (px):</label>
