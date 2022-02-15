@@ -42,14 +42,14 @@ echo"Achtergrond Kleur is: " .$_POST['backColor'];
   
   <?php
     $informatie  = array(
-        "Key"           => "Value<br/>",
-        "Naam"          => "Jan",
-        "Leeftijd"      => "Jan",
-        "Klas"          => "Jan",
-        "Muziek"        => "Janssen",
-        "Merk fiets"    => "9A",
-        "Woonplaats"    => 17,
-        "Eten"          => "Amstelveen"
+        "Key"           =>      "Value",
+        "Naam"          =>      "Mohammed",
+        "Leeftijd"      =>      "17",
+        "Klas"          =>      "1C",
+        "Muziek"        =>      "Hip Hop / Rap",
+        "Merk fiets"    =>      "RockRider",
+        "Woonplaats"    =>      "Amstelveen",
+        "Eten"          =>      "Arabische Gerechten"
     );
         
     foreach($informatie as $keys => $value){
