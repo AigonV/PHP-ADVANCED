@@ -20,23 +20,14 @@ echo"Achtergrond Kleur is: " .$_POST['backColor'];
 <style>
     body {
         background-color: <?php echo $_POST["backColor"];?>;
-    }
-</style>
-
-<style>
-    body {
         color: <?php echo $_POST["textColor"];?>;
     }
-</style>
 
-<br/>
-
-<style>
     table, tr, td {
     border: <?php echo $_POST["tabelRand"]; ?>px solid black;
     padding: <?php echo $_POST["celPad"]; ?>px solid black;
     text-align: center;
-}
+    }
 </style>
 
 <br/>
